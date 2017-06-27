@@ -1,0 +1,6 @@
+development:
+  password: "381c9c71bc60e4f507a6dfed17b85bc3"
+  store: "gr-simetri.myshopify.com"
+  theme_id: "171042057"
+  bucket_size: 40
+  refill_rate: 2
